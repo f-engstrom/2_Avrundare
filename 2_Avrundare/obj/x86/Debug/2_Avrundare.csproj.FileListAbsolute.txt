@@ -1,0 +1,6 @@
+/Users/fransengstrom/Projects/2_Avrundare/2_Avrundare/obj/x86/Debug/2_Avrundare.csprojAssemblyReference.cache
+/Users/fransengstrom/Projects/2_Avrundare/2_Avrundare/obj/x86/Debug/2_Avrundare.csproj.CoreCompileInputs.cache
+/Users/fransengstrom/Projects/2_Avrundare/2_Avrundare/bin/Debug/2_Avrundare.exe
+/Users/fransengstrom/Projects/2_Avrundare/2_Avrundare/bin/Debug/2_Avrundare.pdb
+/Users/fransengstrom/Projects/2_Avrundare/2_Avrundare/obj/x86/Debug/2_Avrundare.exe
+/Users/fransengstrom/Projects/2_Avrundare/2_Avrundare/obj/x86/Debug/2_Avrundare.pdb

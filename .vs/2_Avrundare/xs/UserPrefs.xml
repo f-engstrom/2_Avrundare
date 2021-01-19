@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AD088A18-E64C-43B2-9EAA-9F8149EB8717}|Default">
+  <MonoDevelop.Ide.ItemProperties.2__Avrundare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2_Avrundare/Program.cs">
+    <Files>
+      <File FileName="2_Avrundare/Program.cs" Line="35" Column="112" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2_Avrundare" expanded="True">
+            <Node name="2_Avrundare" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
